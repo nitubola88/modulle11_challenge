@@ -1,6 +1,6 @@
 ## Overview
 This project involves scraping and analyzing data related to Mars. The analysis is divided into two sections:
-1. **Mars News Scraper:** Extracts news articles and details (date, title, and teaser text) from a provided Mars news website.
+1. **Mars News Scraper:** Extracts news articles and details (titlesand previews) from a provided Mars news website.
 2. **Mars Weather Data Scraper and Analyzer:** Collects and analyzes Mars weather data, such as minimum temperatures and atmospheric pressures.
 
 ## Project Structure
