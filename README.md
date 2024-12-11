@@ -10,6 +10,7 @@ This project involves scraping and analyzing data related to Mars. The analysis 
 - `Images/`: Directory for saved visualization plots.
 
 ### Data Analysis
+The Mars News Scraper collects and processes news articles related to Mars from a provided website. The Mars Weather Data Scraper collects weather data (such as temperatures and atmospheric pressures) from Mars and analyzes it for patterns and trends across Martian months.The analysis includes the following:
 1. **How many months exist on Mars?**
    - There are 12 months on Mars, similar to Earth.
 
