@@ -4,8 +4,8 @@ This project involves scraping and analyzing data related to Mars. The analysis 
 2. **Mars Weather Data Scraper and Analyzer:** Collects and analyzes Mars weather data, such as minimum temperatures and atmospheric pressures.
 
 ## Project Structure
-- `mars_news_scraper.py`: Script to scrape and process Mars news articles.
-- `mars_weather_analyzer.py`: Script to scrape and analyze Mars weather data.
+- `part_1_mars_news.py`: Script to scrape and process Mars news articles.
+- `part_2_mars_weather.py`: Script to scrape and analyze Mars weather data.
 - `Resources/`: Directory containing saved CSV files for Mars news and weather data.
 - `Images/`: Directory for saved visualization plots.
 
